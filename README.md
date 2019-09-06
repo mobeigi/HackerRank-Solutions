@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/WusMbl0.png" height="110px" width="auto"/>
+<img src="https://i.imgur.com/WusMbl0.png" height="96px" width="96px" />
 <br/>
 <h3 align="center">HackerRank Solutions</h3>
 <p align="center">My solutions to HackerRank problems</p>
