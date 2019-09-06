@@ -3,7 +3,6 @@
 <br/>
 <h3 align="center">HackerRank Solutions</h3>
 <p align="center">My solutions to HackerRank problems</p>
-<h2></h2>
 </p>
 
 ## Description
