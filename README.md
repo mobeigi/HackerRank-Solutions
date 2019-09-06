@@ -5,7 +5,6 @@
 <p align="center">My solutions to HackerRank problems</p>
 <h2></h2>
 </p>
-<br />
 
 ## Description
 This repo contains some of my solutions from HackerRank.  
